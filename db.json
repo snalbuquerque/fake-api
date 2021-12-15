@@ -1,5 +1,5 @@
 {
-    "filmes":[
+    "cinematografia":[
         {   "id": 1, 
         "titulo":"Sociedade dos poetas mortos", 
         "capa": "https://br.web.img2.acsta.net/pictures/210/132/21013221_20130617200543616.jpg", 
@@ -16,28 +16,28 @@
             "titulo":"Maurice",
             "capa":"https://images-na.ssl-images-amazon.com/images/S/pv-target-images/4e0edff37361a673936ecaabb62d9c78b2faa5f260d4003054eafe042983e96a._RI_V_TTW_.jpg",
             "tipo":"filme"
-        }
-    ],
-    "series":[
+        },
+        
         {
-            "id":1,
+            "id":4,
             "titulo":"O alienista",
             "capa":"https://media.fstatic.com/vq0aEsH_xh__jKyD-50liVa-0jo=/290x478/smart/media/movies/covers/2020/06/alienist_ver4.jpg",
             "tipo": "série"
         },
         {
-            "id": 2,
+            "id": 5,
             "titulo": "Freud",
             "capa": "https://br.web.img2.acsta.net/pictures/20/02/17/16/50/3993307.jpg",
             "tipo": "série"
         },
         {
-            "id":3,
+            "id":6,
             "titulo": "O gambito da rainha",
             "capa": "https://1.bp.blogspot.com/-XMIdp_E-puE/X7hYaUKKv8I/AAAAAAACJhw/OjxI9NIMYNQYV04dDd7-ffO3xwI1ElcmQCLcBGAsYHQ/s640/S%25C3%25A9rie%2BO%2BGambito%2Bda%2BRainha.jpg",
             "tipo":"série"
         }
     ],
+
     "livros": [
         {
             "id":1,
