@@ -57,5 +57,43 @@
             "capa": "https://images-na.ssl-images-amazon.com/images/I/91ZEEdj0cCL.jpg",
             "autor": "Oscar Wilde"
         }
+    ],
+    "outfits":[
+        {
+            "id": 1,
+            "visu": "https://i.pinimg.com/736x/e6/84/b6/e684b6e2a6df86398fb2403d63e747d9.jpg"
+        },
+        {
+            "id":2,
+            "visu":"https://i.pinimg.com/236x/7d/fd/66/7dfd664b9ab3ef115cd4a9a7ec861997.jpg"
+        },
+        {
+            "id":3,
+            "visu":"https://i.pinimg.com/236x/aa/2a/5b/aa2a5bd773c484bd2c568edf31e2f250.jpg"
+        },
+        {
+            "id":4,
+            "visu":"https://i.pinimg.com/236x/65/af/b4/65afb420fc2a93bb9d349102f31f860f.jpg"
+        },
+        {
+            "id":5,
+            "visu":"https://i.pinimg.com/236x/c0/91/4e/c0914e5702aa4915dffbb539f700d099.jpg"
+        },
+        {
+            "id":6,
+            "visu":"https://i.pinimg.com/236x/01/e3/6a/01e36a9d243a9fe2683de696591bb414.jpg"
+        },
+        {
+            "id":7,
+            "visu":"https://i.pinimg.com/236x/e7/aa/be/e7aabeaa2a76313504279ae097fabee8.jpg"
+        },
+        {
+            "id":8,
+            "visu":"https://i.pinimg.com/236x/81/1e/bd/811ebd4edda43db8008964e03482f834.jpg"
+        },
+        {
+            "id":9,
+            "visu":"https://i.pinimg.com/236x/9b/aa/b7/9baab77d938f967232cb5551f02eb8d5.jpg"
+        }
     ]
 }
